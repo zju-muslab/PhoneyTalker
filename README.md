@@ -15,7 +15,7 @@ tqdm==4.64.1
 
 ## Dataset Preparation
 1. Download [LibiriSpeech](http://www.openslr.org/12/) dataset.
-2. Split training, validation, testing, and enrollment sets according to: 
+2. Split training, validation, testing, and enrollment sets according to the data csv files.
 3. Apply [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/index.html) to extract phoneme durations of each utterance into a separate file with '.phn' suffix, in which each line represents the 'start end name' of a phoneme.
 
 ## Pretrained SRS
