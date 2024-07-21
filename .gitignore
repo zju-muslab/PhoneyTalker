@@ -1,0 +1,8 @@
+/data/train
+/data/valid
+/data/enroll
+/data/test
+/cache
+/pretrained_sr
+/outputs
+__pycache__/

@@ -1,0 +1,242 @@
+id,gender,dataset,duration,name
+89,F,train-clean-100,25.08,Kristen McQuillin
+103,F,train-clean-100,23.72,Karen Savage
+118,M,train-clean-100,25.05,Alex Buie
+125,F,train-clean-100,25.18,Claire Goget
+150,F,train-clean-100,25.13,Fox in the Stars
+163,M,train-clean-100,25.06,Andrew Miller
+196,M,train-clean-100,25.24,Stewart Wills
+198,F,train-clean-100,25.02,Heather Barnett
+200,F,train-clean-100,25.14,Maureen S. O'Brien
+201,M,train-clean-100,25.19,Joplin James
+211,F,train-clean-100,25.22,shanda_w
+226,F,train-clean-100,25.21,Deb Bacon-Ziegler
+229,M,train-clean-100,19.56,carnright
+233,M,train-clean-100,24.72,Steve Karafit
+248,F,train-clean-100,25.13,Becky Miller
+250,F,train-clean-100,25.16,Mary Reagan
+254,M,train-clean-100,25.06,Alan Davis Drake (1945-2010)
+289,F,train-clean-100,19.64,Barbara Wedge
+298,F,train-clean-100,25.00,Caroline Morse
+302,F,train-clean-100,25.04,Chris Peterson
+307,M,train-clean-100,25.11,Randy Phillips
+311,M,train-clean-100,25.17,deadwhitemales
+322,F,train-clean-100,25.20,Elisabeth Shields
+328,F,train-clean-100,19.35,Elizabeth Palmer
+332,M,train-clean-100,19.00,Aaron Teiser
+374,M,train-clean-100,25.16,kumarei
+403,F,train-clean-100,25.14,Nocturna
+405,M,train-clean-100,25.04,Eric Dennison
+412,M,train-clean-100,22.38,Brian Roberg
+426,F,train-clean-100,25.21,Norah Piehl
+441,F,train-clean-100,25.19,Sandra in Wales- United Kingdom
+445,M,train-clean-100,11.08,Dave Foss
+446,M,train-clean-100,25.00,Steve Hartzog
+458,M,train-clean-100,17.30,Scott Splavec
+460,M,train-clean-100,25.23,Dave Ranson
+481,M,train-clean-100,25.08,Neal Foley
+587,F,train-clean-100,25.20,Joy Scaglione
+625,M,train-clean-100,25.01,toriasuncle
+669,F,train-clean-100,25.17,Anne
+696,F,train-clean-100,25.11,Tamara R. Schwartz
+730,F,train-clean-100,25.19,Karen Labenz
+831,M,train-clean-100,25.22,Nick Gallant
+839,M,train-clean-100,19.95,rovert405
+887,F,train-clean-100,25.11,Lana Taylor
+909,M,train-clean-100,25.00,Greg Bryant
+911,M,train-clean-100,23.83,frankjf
+1034,M,train-clean-100,16.71,Kevin O'Coin
+1040,M,train-clean-100,15.70,John Garvin
+1069,F,train-clean-100,25.15,Dawn
+1081,M,train-clean-100,25.18,Fracture
+1088,F,train-clean-100,25.18,Christabel
+1098,F,train-clean-100,18.31,Merryb
+1116,F,train-clean-100,25.12,Megan Stemm-Wade
+1183,F,train-clean-100,9.72,roolynninms
+1235,M,train-clean-100,25.09,Tim Gregory
+1246,F,train-clean-100,25.09,Sandra
+1263,F,train-clean-100,25.16,Leonie Rose
+1334,M,train-clean-100,23.89,John Schell
+1355,M,train-clean-100,22.31,Chris Gladis
+1363,F,train-clean-100,21.87,Tammy Sanders
+1447,F,train-clean-100,25.18,Luigina
+1455,M,train-clean-100,25.13,webslog
+1502,F,train-clean-100,25.05,Ann Boyer
+1553,F,train-clean-100,22.49,Mim Ritty
+1578,F,train-clean-100,25.01,Lorelle Anderson
+1594,M,train-clean-100,25.10,Jon Scott Jones
+1624,M,train-clean-100,22.03,Daniel Shorten
+1723,M,train-clean-100,25.12,Rob Whelan
+1737,F,train-clean-100,25.04,Erin Hastings
+1743,M,train-clean-100,21.29,Bryan Ness
+1841,F,train-clean-100,25.13,Laura Caldwell
+1867,M,train-clean-100,25.16,Rowdy Delaney
+1898,F,train-clean-100,25.01,Jennifer
+1926,F,train-clean-100,25.19,Nikki Sullivan
+1963,F,train-clean-100,25.19,Belinda Brown
+1970,F,train-clean-100,25.13,Dawn Larsen
+1992,F,train-clean-100,12.29,Michelle White
+2002,M,train-clean-100,24.94,Larry Maddocks
+2007,F,train-clean-100,25.21,Sheila Morton
+2092,F,train-clean-100,25.10,Elaine Hamby
+2136,M,train-clean-100,25.18,Great Plains
+2159,M,train-clean-100,25.12,Matthew Westra
+2182,F,train-clean-100,25.15,Susan Umpleby
+2196,F,train-clean-100,25.24,Andrea Fiore
+2289,M,train-clean-100,25.08,David Kleparek
+2384,M,train-clean-100,20.21,Ger
+2391,F,train-clean-100,24.54,treefingers
+2416,F,train-clean-100,25.17,Julia Albath
+2436,M,train-clean-100,25.15,Seth Adam Sher
+2514,M,train-clean-100,25.11,S. Young
+2518,M,train-clean-100,25.06,Rob Powell
+2691,F,train-clean-100,25.16,Donna Stewart
+2764,F,train-clean-100,25.19,Piper Hale
+2817,F,train-clean-100,25.14,Catherine Millward
+2836,F,train-clean-100,25.12,Linda McDaniel
+2843,M,train-clean-100,25.18,ricell
+2893,M,train-clean-100,24.41,Ryan Sutter
+2910,F,train-clean-100,22.33,Janna
+2911,M,train-clean-100,25.10,David Lawrence
+2952,M,train-clean-100,25.02,Scott Carpenter
+2989,F,train-clean-100,25.21,Jamie Strassenburg- Cypress- California
+3112,F,train-clean-100,25.08,Jessica Louise
+3168,M,train-clean-100,23.90,David Anton
+3214,M,train-clean-100,25.08,fourteatoo
+3235,F,train-clean-100,24.94,Karen Commins
+3240,M,train-clean-100,25.09,flakker
+3242,M,train-clean-100,25.03,peac
+3259,F,train-clean-100,25.19,Kate West
+3374,M,train-clean-100,25.17,Craig Campbell
+3436,M,train-clean-100,25.25,Anders Lankford
+3440,F,train-clean-100,25.18,Heidi Will
+3486,M,train-clean-100,25.08,Robin Balmer
+3526,F,train-clean-100,25.18,Bereni
+3607,M,train-clean-100,22.10,Richard Wallis
+3664,M,train-clean-100,25.06,Barry Eads
+3699,M,train-clean-100,25.15,Bruce Pirie
+3723,M,train-clean-100,25.07,Kevin Lavin
+3807,M,train-clean-100,22.31,Jesse Noar
+3830,M,train-clean-100,24.01,rymd80
+3857,M,train-clean-100,25.17,Epistomolus
+3879,F,train-clean-100,25.10,Keneva
+3947,F,train-clean-100,22.43,johnell
+3982,F,train-clean-100,25.07,Kate Adams
+3983,F,train-clean-100,25.01,lavocedorata
+4014,M,train-clean-100,25.20,Tom Clifton
+4018,M,train-clean-100,25.17,Nicholas Clifford
+4051,F,train-clean-100,25.14,Liz Devens
+4088,F,train-clean-100,25.15,Blazin48
+4137,F,train-clean-100,24.92,Sarah LuAnn
+4160,F,train-clean-100,25.09,Rosie
+4195,F,train-clean-100,25.08,bj
+4214,F,train-clean-100,17.45,A. Janelle Risa
+4267,M,train-clean-100,25.14,Ric F
+4297,F,train-clean-100,25.04,Tina Horning
+4340,F,train-clean-100,21.97,kiwafruit
+4362,F,train-clean-100,25.18,Michelle Montano
+4397,M,train-clean-100,25.06,John Dennison
+4406,M,train-clean-100,25.12,Matthew Scott Surprenant
+4441,M,train-clean-100,25.06,William Peck
+4481,F,train-clean-100,22.56,margo zinberg
+4640,F,train-clean-100,25.06,Karen Mason
+4680,F,train-clean-100,25.15,pachayes
+4788,M,train-clean-100,25.04,Bill Boerst
+4813,M,train-clean-100,25.12,Steve Mattern
+4830,M,train-clean-100,24.05,George Aalto
+4853,F,train-clean-100,25.04,Barbara Derksen
+4859,M,train-clean-100,20.37,nathank
+4898,M,train-clean-100,25.11,greatbasinrain
+5022,F,train-clean-100,25.12,Kathleen Costa
+5049,M,train-clean-100,25.08,Bradley Smith
+5104,M,train-clean-100,25.03,Chuck Burke
+5163,F,train-clean-100,23.57,LilyAnne
+5192,M,train-clean-100,24.14,Jason Esteves
+5322,M,train-clean-100,25.03,Jay Bidal
+5339,F,train-clean-100,25.13,Lauren McCullough
+5390,M,train-clean-100,25.20,Charles Bice
+5393,F,train-clean-100,25.22,Amy Hengst
+5456,M,train-clean-100,19.77,e_scarab
+5463,M,train-clean-100,25.00,GLM
+5514,F,train-clean-100,17.39,Ella Jane Quentin
+5561,F,train-clean-100,23.86,Ellen Jones
+5652,F,train-clean-100,25.05,amicrazy2u
+5678,M,train-clean-100,25.10,jgoffena
+5688,F,train-clean-100,25.17,Jennifer Dionne
+5703,M,train-clean-100,25.10,Garth Comira
+5750,M,train-clean-100,25.08,laurencetrask
+5778,F,train-clean-100,21.81,Laura Victoria
+5789,F,train-clean-100,25.16,Kirsten Wever
+5808,M,train-clean-100,25.16,jeandelfrio
+5867,F,train-clean-100,23.63,Sharon Omi
+6000,F,train-clean-100,18.04,MissRose
+6019,M,train-clean-100,25.17,DerekP
+6064,F,train-clean-100,25.04,Deborah Knight
+6078,F,train-clean-100,25.02,dobsonfly
+6081,M,train-clean-100,25.10,Lazuli
+6147,F,train-clean-100,25.05,Liberty Stump
+6181,M,train-clean-100,25.09,Mike
+6209,M,train-clean-100,25.04,deckerteach
+6272,F,train-clean-100,25.14,jlenardon
+6367,M,train-clean-100,25.04,Vince Dee
+6385,F,train-clean-100,25.09,Novella Serena
+6415,F,train-clean-100,25.18,Daryl Wor
+6437,M,train-clean-100,25.09,John Hoerr
+6454,M,train-clean-100,25.22,David Wales
+6476,F,train-clean-100,25.17,Viridian
+6529,M,train-clean-100,25.04,Fred DeBerardinis
+6531,F,train-clean-100,21.46,janesandberg
+6563,M,train-clean-100,21.58,William Tomcho
+6818,F,train-clean-100,25.17,beckyboyd
+6836,M,train-clean-100,25.01,John
+6848,M,train-clean-100,25.17,KarlHenning
+6880,M,train-clean-100,25.10,Capybara
+6925,M,train-clean-100,17.07,Thomas Meaney
+7059,F,train-clean-100,25.02,Joannemmp
+7067,M,train-clean-100,25.17,Matthew Wall
+7078,F,train-clean-100,25.14,Mary in Arkansas
+7113,F,train-clean-100,25.20,Sukaina Jaffer
+7148,F,train-clean-100,25.02,Vickie Ranz
+7178,F,train-clean-100,25.11,J.K. Neely
+7190,M,train-clean-100,25.22,Tony Posante
+7226,M,train-clean-100,25.05,Jonathan Moore
+7264,M,train-clean-100,23.42,Sean McClain
+7278,M,train-clean-100,25.01,Jon Smith
+7302,F,train-clean-100,25.10,Asta1234
+7312,M,train-clean-100,5.44,nkneer
+7367,M,train-clean-100,25.13,NIneFive83
+7402,M,train-clean-100,25.01,Canby Ibarra
+7447,M,train-clean-100,25.24,dasbury
+7505,M,train-clean-100,25.13,Ron Lockhart
+7511,F,train-clean-100,25.00,Sherri Vance
+7517,F,train-clean-100,24.29,Raz Mason
+7635,F,train-clean-100,25.06,Judy Guinan
+7780,F,train-clean-100,23.50,tazzle
+7794,F,train-clean-100,25.23,mlcui
+7800,F,train-clean-100,25.21,Arie
+7859,F,train-clean-100,21.58,xinamarieuhl
+8014,F,train-clean-100,14.42,constatine
+8051,F,train-clean-100,25.23,Maria Kasper
+8063,M,train-clean-100,25.08,Robert Snoza
+8088,M,train-clean-100,25.06,Jason Bolestridge
+8095,M,train-clean-100,25.03,Theodulf
+8098,M,train-clean-100,25.18,Arnold
+8108,M,train-clean-100,25.03,drakaunus
+8123,F,train-clean-100,25.15,Sheila Wood
+8226,M,train-clean-100,25.18,Adam Picot
+8238,F,train-clean-100,25.08,Madam Fickle
+8312,F,train-clean-100,25.14,Jaimie Noy
+8324,F,train-clean-100,25.16,Kathy Wright
+8419,M,train-clean-100,25.22,Jon Kissack
+8425,M,train-clean-100,25.16,Larry Wilson
+8465,F,train-clean-100,24.88,TinaNygard2
+8468,F,train-clean-100,25.23,Jennifer Dorr
+8580,M,train-clean-100,19.82,Gary Dana
+8609,M,train-clean-100,25.10,noblesavage
+8629,M,train-clean-100,25.13,Shivansh Dhar
+8630,M,train-clean-100,23.50,Eduardo
+8747,M,train-clean-100,23.49,DeanOBuchanan
+8770,M,train-clean-100,25.13,Paul Simonin
+8797,M,train-clean-100,22.76,Sean Grabosky
+8838,M,train-clean-100,25.06,Kevin Owens
+8975,F,train-clean-100,25.11,Daisy Flaim

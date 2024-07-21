@@ -1,0 +1,69 @@
+root_dir: /path/to/PhoneyTalker
+data_dir: ${root_dir}/data
+cache_dir: ${root_dir}/cache
+mode: train
+seed: 2023
+device: 0
+gpu: true
+target_speaker: 1
+confidence: 50
+wav_len: 64000
+lr: 0.001
+epoch: 10
+batch_size: 128
+patience: 5
+save_wave: false
+
+generator:
+  phoneme_num: 39
+  phoneme_len: 200
+  scale_factor: 4
+
+suppressor:
+  sample_rate: 16000
+  lp_freq: 2000
+  epsilon: 0.01
+
+discriminator:
+  mfcc_cfg:
+    sample_rate: 16000
+    win_len_ms: 25
+    hop_len_ms: 10
+    n_fft: 1024 
+    n_mfcc: 24 
+    cmn_window: 300
+  name: vox1_xvector
+  ckpt_dir: ${root_dir}/pretrained_sr
+  systems:
+    vox1_dvector:
+        encoder_path: vox1_dvector_ckpt_final.pth
+        gplda_path: vox1_dvector_gplda.npz
+        threshold: -3.2847
+    vox1_xvector:
+        encoder_path: vox1_xvector_ckpt_final.pth
+        gplda_path: vox1_xvector_gplda.npz
+        threshold: -2.0296
+    vox1_deepspeaker: 
+        encoder_path: vox1_deepspeaker_ckpt_final.pth
+        gplda_path: vox1_deepspeaker_gplda.npz
+        threshold: -5.3762
+    vox2_dvector: 
+        encoder_path: vox2_dvector_ckpt_final.pth
+        gplda_path: vox2_dvector_gplda.npz
+        threshold: -3.7372
+    vox2_xvector:
+        encoder_path: vox2_xvector_ckpt_final.pth
+        gplda_path: vox2_xvector_gplda.npz
+        threshold: -0.8765
+    vox2_deepspeaker:
+        encoder_path: vox2_deepspeaker_ckpt_final.pth
+        gplda_path: vox2_deepspeaker_gplda.npz
+        threshold: -4.7136
+
+hydra:
+  run:
+    dir: outputs/${discriminator.name}_spk_${target_speaker}_con_${confidence}_len_${generator.phoneme_len}_eps_${suppressor.epsilon}
+
+defaults:
+  - override hydra/job_logging: colorlog
+  - override hydra/hydra_logging: colorlog
